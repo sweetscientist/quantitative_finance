@@ -1,0 +1,5 @@
+# Quantitative Finance 
+
+This is a place I dedicate most my finance related developments. 
+
+- [Data collection](https://github.com/sweetscientist/quantitative_finance/blob/master/stock_data_collection.ipynb)
